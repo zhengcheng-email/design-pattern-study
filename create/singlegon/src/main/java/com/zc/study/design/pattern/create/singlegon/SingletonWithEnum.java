@@ -6,7 +6,7 @@ package com.zc.study.design.pattern.create.singlegon;
  * @author Daniel Zheng
  * @create 2018-10-12 下午11:40
  **/
-public enum SinglegonWithEnum implements Singleton{
+public enum SingletonWithEnum implements Singleton{
 
     /**
      * 单例对象

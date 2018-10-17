@@ -18,6 +18,12 @@ public class SingletonWithInnerClass implements Singleton {
 
     }
 
+    /**
+     * 私有构造器
+     */
+    private SingletonWithInnerClass(){
+    }
+
 
     public void action(){
 
