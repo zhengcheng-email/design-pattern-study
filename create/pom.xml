@@ -11,11 +11,6 @@
 
     <artifactId>design-pattern-create</artifactId>
     <packaging>pom</packaging>
-    <modules>
-        <module>singlegon</module>
-        <module>simple-factory</module>
-        <module>design-pattern-create-factory</module>
-    </modules>
 
 
 </project>
