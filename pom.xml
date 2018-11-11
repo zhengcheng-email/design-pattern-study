@@ -11,6 +11,7 @@
     <modules>
         <module>create</module>
         <module>structure</module>
+        <module>behaviour</module>
     </modules>
 
     <properties>
